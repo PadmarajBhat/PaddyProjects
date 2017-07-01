@@ -1,0 +1,2 @@
+# PaddyProjects
+Django Applications
