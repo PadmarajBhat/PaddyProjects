@@ -1,2 +1,2 @@
-# PaddyProjects
-Django Applications
+# Coming Soon ....
+Sample Django Application to display a Quetion with multiple choice, store the user vote and vote statistics to user. 
