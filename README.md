@@ -1,2 +1,2 @@
 # Coming Soon ....
-Sample Django Application to display a Quetion with multiple choice, store the user vote and vote statistics to user. 
+Sample Django Application to display a Poll to choose favorite actor, store the user vote and display vote statistics to user. 
